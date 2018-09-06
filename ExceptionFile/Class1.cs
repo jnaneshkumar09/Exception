@@ -15,7 +15,7 @@ namespace ExceptionFile
         static string constr = ConfigurationManager.ConnectionStrings["constr1"].ConnectionString;
         public static void SendExceptionToDB(Exception exdb)
         {
-            //string exepurl = System.Web.HttpContext.Current.Request.Url.ToString();            
+            //string exepurl = System.Web.HttpContext.Current.Request.Url.ToString(); 123           
             SqlConnection con = new SqlConnection(constr);
             con.Open();
             SqlCommand com = new SqlCommand("ExceptionLoggingToDataBase", con);

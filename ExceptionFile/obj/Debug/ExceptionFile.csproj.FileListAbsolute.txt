@@ -9,3 +9,9 @@ D:\Projects\ExceptionFile\ExceptionFile\bin\Debug\ExceptionFile.pdb
 D:\Projects\ExceptionFile\ExceptionFile\obj\Debug\ExceptionFile.dll
 D:\Projects\ExceptionFile\ExceptionFile\obj\Debug\ExceptionFile.pdb
 D:\Projects\ExceptionFile\ExceptionFile\obj\Debug\ExceptionFile.csprojResolveAssemblyReference.cache
+C:\Users\Digixhub Employee\Source\Repos\Exception\ExceptionFile\bin\Debug\ExceptionFile.dll.config
+C:\Users\Digixhub Employee\Source\Repos\Exception\ExceptionFile\bin\Debug\ExceptionFile.dll
+C:\Users\Digixhub Employee\Source\Repos\Exception\ExceptionFile\bin\Debug\ExceptionFile.pdb
+C:\Users\Digixhub Employee\Source\Repos\Exception\ExceptionFile\obj\Debug\ExceptionFile.csprojResolveAssemblyReference.cache
+C:\Users\Digixhub Employee\Source\Repos\Exception\ExceptionFile\obj\Debug\ExceptionFile.dll
+C:\Users\Digixhub Employee\Source\Repos\Exception\ExceptionFile\obj\Debug\ExceptionFile.pdb
