@@ -1,0 +1,11 @@
+C:\Users\Jags Employee\Documents\Visual Studio 2015\Projects\ExceptionFile\ExceptionFile\bin\Debug\ExceptionFile.dll.config
+C:\Users\Jags Employee\Documents\Visual Studio 2015\Projects\ExceptionFile\ExceptionFile\bin\Debug\ExceptionFile.dll
+C:\Users\Jags Employee\Documents\Visual Studio 2015\Projects\ExceptionFile\ExceptionFile\bin\Debug\ExceptionFile.pdb
+C:\Users\Jags Employee\Documents\Visual Studio 2015\Projects\ExceptionFile\ExceptionFile\obj\Debug\ExceptionFile.dll
+C:\Users\Jags Employee\Documents\Visual Studio 2015\Projects\ExceptionFile\ExceptionFile\obj\Debug\ExceptionFile.pdb
+D:\Projects\ExceptionFile\ExceptionFile\bin\Debug\ExceptionFile.dll.config
+D:\Projects\ExceptionFile\ExceptionFile\bin\Debug\ExceptionFile.dll
+D:\Projects\ExceptionFile\ExceptionFile\bin\Debug\ExceptionFile.pdb
+D:\Projects\ExceptionFile\ExceptionFile\obj\Debug\ExceptionFile.dll
+D:\Projects\ExceptionFile\ExceptionFile\obj\Debug\ExceptionFile.pdb
+D:\Projects\ExceptionFile\ExceptionFile\obj\Debug\ExceptionFile.csprojResolveAssemblyReference.cache
